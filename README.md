@@ -5,6 +5,7 @@ Professional Portfolio
 
 * HTML5
 * CSS3
+* Sass
 * JavaScript
 
 # Deployment
