@@ -10,4 +10,4 @@ Professional Portfolio
 
 # Deployment
 
-[CitySearch App](https://banesag.github.io/PortfolioBG/)
+[Portfolio](https://banesag.github.io/PortfolioBG/)
